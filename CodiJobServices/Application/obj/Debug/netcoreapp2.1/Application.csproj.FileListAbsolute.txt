@@ -1,0 +1,12 @@
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Application\bin\Debug\netcoreapp2.1\Application.deps.json
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Application\bin\Debug\netcoreapp2.1\Application.dll
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Application\obj\Debug\netcoreapp2.1\Application.csprojAssemblyReference.cache
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Application\obj\Debug\netcoreapp2.1\Application.csproj.CoreCompileInputs.cache
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Application\obj\Debug\netcoreapp2.1\Application.AssemblyInfoInputs.cache
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Application\obj\Debug\netcoreapp2.1\Application.AssemblyInfo.cs
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Application\bin\Debug\netcoreapp2.1\Application.pdb
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Application\obj\Debug\netcoreapp2.1\Application.csproj.CopyComplete
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Application\obj\Debug\netcoreapp2.1\Application.dll
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Application\obj\Debug\netcoreapp2.1\Application.pdb
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Application\bin\Debug\netcoreapp2.1\Domain.dll
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Application\bin\Debug\netcoreapp2.1\Domain.pdb

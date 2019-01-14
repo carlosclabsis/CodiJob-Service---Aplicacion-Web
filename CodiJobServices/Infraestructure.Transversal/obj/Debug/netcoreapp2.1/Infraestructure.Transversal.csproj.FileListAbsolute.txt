@@ -1,0 +1,14 @@
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Infraestructure.Transversal\bin\Debug\netcoreapp2.1\Infraestructure.Transversal.deps.json
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Infraestructure.Transversal\bin\Debug\netcoreapp2.1\Infraestructure.Transversal.dll
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Infraestructure.Transversal\obj\Debug\netcoreapp2.1\Infraestructure.Transversal.csprojAssemblyReference.cache
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Infraestructure.Transversal\obj\Debug\netcoreapp2.1\Infraestructure.Transversal.csproj.CoreCompileInputs.cache
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Infraestructure.Transversal\obj\Debug\netcoreapp2.1\Infraestructure.Transversal.AssemblyInfoInputs.cache
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Infraestructure.Transversal\obj\Debug\netcoreapp2.1\Infraestructure.Transversal.AssemblyInfo.cs
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Infraestructure.Transversal\bin\Debug\netcoreapp2.1\Infraestructure.Transversal.pdb
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Infraestructure.Transversal\bin\Debug\netcoreapp2.1\Application.dll
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Infraestructure.Transversal\bin\Debug\netcoreapp2.1\Domain.dll
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Infraestructure.Transversal\bin\Debug\netcoreapp2.1\Application.pdb
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Infraestructure.Transversal\bin\Debug\netcoreapp2.1\Domain.pdb
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Infraestructure.Transversal\obj\Debug\netcoreapp2.1\Infraestructure.Transversal.csproj.CopyComplete
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Infraestructure.Transversal\obj\Debug\netcoreapp2.1\Infraestructure.Transversal.dll
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\CodiJobServices\Infraestructure.Transversal\obj\Debug\netcoreapp2.1\Infraestructure.Transversal.pdb
